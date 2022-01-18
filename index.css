@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(2, 219, 2);
+    font-family:  monospace, sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+ul {
+    position: relative;
+    left: 42%;
+    line-height: 1.9em;
+}
+body {
+    background-color: rgb(38, 87, 248);
+}
+a:hover {
+    color: rgb(255, 72, 72);
+}
+
+a:active {
+    color: rgb(85, 221, 31);
+}
