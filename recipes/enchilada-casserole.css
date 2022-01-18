@@ -1,11 +1,11 @@
 .header {
     font-size: 250%;
     font-family: sans-serif;
-    color: rgb(49, 251, 14);    
+    color: rgb(255, 5, 5);    
 }
 .main.header {
     text-align: center;
-    color: rgb(238, 255, 85);
+    color: yellow;
     font-size: 300%;
     font-family: serif;
 }
@@ -20,11 +20,10 @@
 .ingr, .steps {
     position: relative;
     left: 2%;
-    text-align: justify;
 }
 .list, .para {
     position: relative;
-    left: 1%;
+    left: 2%;
     line-height: 1.5em;
     font-size: 17px;
     font-family: sans-serif;
@@ -33,5 +32,5 @@
     font-weight: bold;
 }
 body {
-    background-color: blueviolet;
+    background-color: rgb(43, 70, 226);
 }
