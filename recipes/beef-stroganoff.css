@@ -1,0 +1,35 @@
+.header {
+    font-size: 250%;
+    font-family: sans-serif;
+    color: rgb(49, 251, 14);    
+}
+.main.header {
+    text-align: center;
+    color: rgb(238, 255, 85);
+    font-size: 300%;
+    font-family: serif;
+}
+.image {
+    height: 200px;
+    position: relative;
+    left: 42%;
+}
+.descr {
+    text-align: center;
+}
+.ingr, .steps {
+    position: relative;
+    left: 2%;
+}
+.list, .para {
+    position: relative;
+    left: 2%;
+    line-height: 1.5em;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 120%;
+}
+body {
+    background-color: blueviolet;
+}
